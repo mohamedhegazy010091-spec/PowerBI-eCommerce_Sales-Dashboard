@@ -75,4 +75,8 @@ This project demonstrates my ability to:
 - Design clear, interactive BI dashboards  
 - Translate data into actionable business insights  
 
+---
+
+## 🌟 About Me
+Hi there! I'm Mohamed Hegazy, a junior data analyst who loves working with data to uncover patterns and insights. I’m passionate about turning raw data into clean, visual, and easy-to-understand information. I mainly work with Excel, SQL, Python, and Power BI to analyze and visualize data effectively.
 
